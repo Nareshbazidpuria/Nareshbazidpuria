@@ -3,7 +3,7 @@
 **Full Stack Engineer · Tech Lead · Mohali / Chandigarh, India 🇮🇳**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naresh-bazidpuria-a8a45a1a2/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-nareshbazidpuria.github.io-00D9FF?style=flat-square&logo=googlechrome&logoColor=white)](https://nareshbazidpuria.github.io/NB-React/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nareshbazidpuria.github.io-00D9FF?style=flat-square&logo=googlechrome&logoColor=white)](https://nareshbazidpuria.github.io/Naresh-Bazidpuria/)
 [![Email](https://img.shields.io/badge/Email-nareshbazidpuria@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nareshbazidpuria@gmail.com)
 
 ---
@@ -47,7 +47,7 @@ I care deeply about clean, maintainable code — not just making things work, bu
 
 | Project | Description |
 |---------|-------------|
-| [**Portfolio**](https://nareshbazidpuria.github.io/Nareshbazidpuria/) | Personal portfolio — built with React, showcasing work and experience |
+| [**Portfolio**](https://nareshbazidpuria.github.io/Naresh-Bazidpuria/) | Personal portfolio — built with React, showcasing work and experience |
 | [**Expense Manager Mobile**](https://github.com/Nareshbazidpuria/ExpenseManagerMobile) | React Native expense tracking app — manage, categorize, and visualize spending on the go |
 
 ---
