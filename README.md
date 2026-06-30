@@ -48,7 +48,7 @@ I care deeply about clean, maintainable code — not just making things work, bu
 | Project | Description |
 |---------|-------------|
 | [**Portfolio**](https://nareshbazidpuria.github.io/Naresh-Bazidpuria/) | Personal portfolio — built with React, showcasing work and experience |
-| [**Expense Manager Mobile**](https://github.com/Nareshbazidpuria/ExpenseManagerMobile) | React Native expense tracking app — manage, categorize, and visualize spending on the go |
+| [**Expense Manager**](https://github.com/Nareshbazidpuria/ExpenseManagerMobile) | React Native expense tracking app — manage, categorize, and visualize spending on the go |
 
 ---
 
